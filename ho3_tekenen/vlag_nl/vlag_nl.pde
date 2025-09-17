@@ -1,0 +1,10 @@
+size(400,400);
+strokeWeight(9);
+line(50, 50, 50, 350);
+strokeWeight(0);
+fill(255,0,0);
+rect(55, 55, 200, 50);
+fill(255);
+rect(55, 102, 200, 50);
+fill(0,0,255);
+rect(55, 152, 200, 50);
